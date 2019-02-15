@@ -20,6 +20,12 @@ else if(side1!==side2&&side2!==side3&&side3!==side1&&side2+side1>side3||side3+si
 alert("it is not a triangle")
 }
 
+function submitForm() {
+           document.getElementById("submit").reset();
+           }
+submitForm();
+
+
 }
 
 tracker();
