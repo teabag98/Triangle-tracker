@@ -6,7 +6,7 @@ function tracker(){
   var side1=parseInt(a);
   var side2=parseInt(b);
   var side3=parseInt(c);
-  var myArray=[side1,side2,side3]    
+  var myArray=[side1,side2,side3]     
 
 if(side1===side2&&side2===side3&&side1===side3){
 alert("the triangle is equilateral")
