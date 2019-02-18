@@ -3,14 +3,29 @@
 #### By eric mwendwa
 ## Description
 when you input three numbers, it should alert the type of triangle by the inputted measurements
+## B.D.D
+BEHAVIOUR: triangle tacker takes three inputs. The inputs are equivalent to the size of any three sides of a triangle.if the three inputs are equal, then the output will be "equilateral, if only two sides are equal, then the output will be isosceles, if none of the sides are equal, then the output will be scalene.".
+INPUT EXAMPLE: 5,5,5
+OUTPUT EXAMPLE: "the triangle is equilateral"
+INPUT EXAMPLE: 5,5,6
+OUTPUT EXAMPLE: "the triangle is isosceles"
+INPUT EXAMPLE: 5,8,6
+OUTPUT EXAMPLE: "the triangle scalene"
+INPUT EXAMPLE: 5,5,11
+OUTPUT EXAMPLE: "this is not a triangle"
+
+
+
 
 ## Setup/Installation Requirements
 * atom
+* git
+* git-hub
 
 
 
 ## Known Bugs
-The page doesnt refresh on default
+The page doesn't refresh on default
 ## Technologies Used
 HTML
 CSS
