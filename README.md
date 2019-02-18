@@ -3,6 +3,7 @@
 #### By eric mwendwa
 ## Description
 when you input three numbers, it should alert the type of triangle by the inputted measurements
+
 ## Setup/Installation Requirements
 * atom
 
